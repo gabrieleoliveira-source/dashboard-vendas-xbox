@@ -1,6 +1,3 @@
-# dashboard-vendas-xbox
-Dashboard de vendas desenvolvido em Excel para análise de dados e visualização de indicadores.
-
 # Dashboard de Vendas — Xbox
 
 ## Sobre o projeto
