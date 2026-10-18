@@ -14,7 +14,7 @@ Organizar e visualizar os dados fornecidos pela DIO, transformando-os em indicad
 A base utilizada neste projeto foi disponibilizada pela DIO como parte do desafio.
 
 ## 📈 Dashboard
-![Dashboard](images/imagens_dashboard_xbox.PNG)
+![dashboard-vendas-xbox](images/imagens_dashboard_xbox.PNG)
 
 ## 🔎 Análises
 O dashboard permite analisar:
